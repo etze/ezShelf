@@ -1,0 +1,14 @@
+{
+  "name": "ez-shelf--server",
+  "version": "1.0.0",
+  "description": "ezShelp server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ezShelf"
+  ],
+  "author": "etze",
+  "license": "ISC"
+}
